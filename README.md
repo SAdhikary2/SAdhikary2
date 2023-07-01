@@ -6,9 +6,10 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sadhikary2" alt="sadhikary2" /></a> </p>
 
-- 💬 Ask me about **Java,Python**
+- 💬 Ask me about **Java,Python,Javascript**
 
 - 📫 How to reach me **sadhikary0055@gmail.com**
+- Linkdin -**https://www.linkedin.com/in/sukalyan-adhikary-b40bb025b/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
