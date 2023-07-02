@@ -1,4 +1,4 @@
-
+![logo](https://github.com/SAdhikary2/SAdhikary2/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sukalyan Adhikary</h1>
 <h3 align="center">A passionate Coder from India</h3>
 
