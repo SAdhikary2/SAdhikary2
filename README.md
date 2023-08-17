@@ -1,6 +1,6 @@
 ![logo](https://github.com/SAdhikary2/SAdhikary2/blob/main/Black%20and%20Red%20Gradient%20Professional%20LinkedIn%20Banner.png)
 <h1 align="center">Hi 👋, I'm Sukalyan Adhikary</h1>
-<h3 align="center">A passionate Coder from India</h3>
+<h3 align="center">A FullStack Web Developer</h3>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhikary2&label=Profile%20views&color=0e75b6&style=flat" alt="sadhikary2" /> </p>
