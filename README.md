@@ -1,4 +1,5 @@
 # 💫 About Me:
+<img alt="Coder GIF" height=250 width=350 src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif" />
 I'm currently working as a Fullstack Developer<br>I am looking to collaborate on mernstack project<br>I am looking for help with fullstack technologies<br>I am currently learning Next JS, TypeScript<br>Ask me about mernstack, Java ,python<br>
 
 
