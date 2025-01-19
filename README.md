@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sukalyan Adhikary</h1>
-<p align="left">I am a dedicated software developer with a strong passion for creating innovative and efficient solutions. With a focus on delivering high-quality Software applications, he thrives in dynamic environments, tackling complex challenges and driving projects to successful completion. Known for his problem-solving skills and attention to detail, committed to building applications that enhance user experience and meet business objectives. He is always eager to learn and grow, seeking new opportunities to contribute and expand his skill set in the software development field</p>
+<p align="left">I am a dedicated software developer with a strong passion for creating innovative and efficient solutions. With a focus on delivering high-quality Software applications, I thrive in dynamic environments, tackling complex challenges and driving projects to successful completion.
+
+Known for my problem-solving skills and attention to detail, I am committed to building applications that enhance user experience and meet business objectives. I am always eager to learn and grow, seeking new opportunities to contribute and expand my skill set in the software development field.</p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sadhikary2&label=Profile%20views&color=0e75b6&style=flat" alt="sadhikary2" /> </p>
 
