@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sukalyan Adhikary</h1>
+
 
 <p align="left">
   I am a dedicated software developer with a strong passion for creating
