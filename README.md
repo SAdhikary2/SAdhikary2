@@ -356,7 +356,7 @@
   </a>
 </p>
 
-<h3 align="center">☁️ DevOps & Cloud</h3>
+<h3 align="center">☁️ DevOps & Clouds</h3>
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
     <img
