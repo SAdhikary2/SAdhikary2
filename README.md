@@ -484,7 +484,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Stats</h2>
+<h2 align="center">📊 GitHub Statistics</h2>
 <p align="center">
   <img
     align="center"
@@ -570,6 +570,7 @@
     height="31"
   />
 </h2>
+
 
 
 ![](https://i.imgur.com/waxVImv.png)
