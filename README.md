@@ -484,7 +484,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 GitHub Statistics</h2>
+<h2 align="center">📊 GitHub Stats</h2>
 <p align="center">
   <img
     align="center"
