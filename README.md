@@ -48,13 +48,7 @@
 
 <h2 align="center">🌐 Connect With Me</h2>
 <p align="center">
-  <a href="https://twitter.com/sukalyan_a" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-      alt="sukalyan_a"
-    />
-  </a>
+
   <a href="https://linkedin.com/in/sukalyan89" target="blank">
     <img
       align="center"
