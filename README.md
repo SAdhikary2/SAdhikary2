@@ -499,7 +499,7 @@
   />
 </p>
 
-<h2 align="center">⚡ Fun Facts</h2>
+<h2 align="center">⚡ Fun Fact</h2>
 <div align="center">
   <img
     src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJ4dW5zY2R3cWJ3eGZ1dWJ2b3RjZzF5b2F5eHZ0dWt0Y2J6dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"
