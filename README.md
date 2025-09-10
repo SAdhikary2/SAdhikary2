@@ -19,7 +19,7 @@
 
 <p align="left">
   I am a dedicated software developer with a strong passion for creating
-  innovative and efficient solutions. With a focus on delivering high-quality
+  innovative and efficient solution. With a focus on delivering high-quality
   software applications, I thrive in dynamic environments, tackling complex
   challenges and driving projects to successful completion.
 </p>
