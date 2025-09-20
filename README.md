@@ -69,7 +69,7 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stacks</h2>
+<h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Core Java & Backend</h3>
 <p align="center">
