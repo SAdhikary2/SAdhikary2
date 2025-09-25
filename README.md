@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hello World! I'm Sukalyan</h1>
 <h3 align="center">
-  Java Developer | Backend Specialist | Problem Solver
+  FullStack Developer | Backend Specialist | Problem Solver
 </h3>
 
 <p align="center">
@@ -20,8 +20,8 @@
 ---
 
 <p align="left">
-  I am a dedicated <b>Java Developer</b> passionate about building scalable backend systems and enterprise-grade applications.  
-  My expertise lies in <b>Java, J2EE, Spring Boot, Hibernate, Microservices, and Cloud Technologies</b>.  
+  I am a dedicated <b>FullStack Developer</b> passionate about building scalable backend systems and enterprise-grade applications.  
+  My expertise lies in <b>Java, J2EE, Spring Boot, Hibernate, Microservices, React.js and Cloud Technologies</b>.  
   I thrive on solving complex problems, writing clean code, and continuously improving system performance and reliability.
 </p>
 
