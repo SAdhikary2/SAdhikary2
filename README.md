@@ -5,7 +5,7 @@
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Hibernate;REST+APIs+%7C+WebSocket+%7C+Kafka;Clean+Code+Advocate+%7C+Cloud+Technologies"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=22D3EE&center=true&vCenter=true&width=600&lines=Java+Backend+Developer;Spring+Boot+%7C+Microservices+%7C+Hibernate;REST+APIs+%7C+WebSocket+%7C+Kafka;FullStack+with+React+%26+Next.js;Python+%7C+Go+%7C+Angular;Clean+Code+Advocate+%7C+Cloud+Technologies"
     alt="Typing SVG"
   />
 </p>
@@ -21,7 +21,7 @@
 
 <p align="left">
   I am a dedicated <b>FullStack Developer</b> passionate about building scalable backend systems and enterprise-grade applications.  
-  My expertise lies in <b>Java, J2EE, Spring Boot, Hibernate, Microservices, React.js and Cloud Technologies</b>.  
+  My expertise lies in <b>Java, J2EE, Spring Boot, Hibernate, Microservices, React.js, Next.js, Angular, Python, Go and Cloud Technologies</b>.  
   I thrive on solving complex problems, writing clean code, and continuously improving system performance and reliability.
 </p>
 
@@ -40,61 +40,34 @@
   </a>
 </p>
 
----
-
-<h2 align="center">🌐 Connect With Me</h2>
-<p align="center">
-  <a href="https://linkedin.com/in/sukalyan89" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="sukalyan89"
-    />
-  </a>
-  <a href="https://www.leetcode.com/sukalyan_5" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"
-      alt="sukalyan_5"
-    />
-  </a>
-  <a href="https://auth.geeksforgeeks.org/user/potterron0077" target="blank">
-    <img
-      align="center"
-      src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white"
-      alt="potterron0077"
-    />
-  </a>
-</p>
-
----
-
 <h2 align="center">🛠️ Tech Stack</h2>
 
 <h3 align="center">💻 Core Java & Backend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/hibernate/hibernate-icon.svg" alt="hibernate" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/swaggerio/swaggerio-icon.svg" alt="swagger" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
 </p>
 
 <h3 align="center">⚙️ Frameworks & Tools</h3>
 <p align="center">
   <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-boot" width="100" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" alt="spring-security" width="100" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="aws" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/>
 </p>
 
-<h3 align="center">🎨 Frontend (Supportive)</h3>
+<h3 align="center">🎨 Frontend</h3>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="nextjs" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/>
 </p>
@@ -102,16 +75,16 @@
 <h3 align="center">🧪 Testing & Others</h3>
 <p align="center">
   <img src="https://avatars.githubusercontent.com/u/874086?s=200&v=4" alt="junit" width="50" height="50"/>
+  <img src="https://www.vectorlogo.zone/logos/mockito/mockito-icon.svg" alt="mockito" width="50" height="50"/>
   <img src="https://cdn.worldvectorlogo.com/logos/swagger.svg" alt="swagger" width="50" height="50"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
-  <img src="https://www.vectorlogo.zone/logos/mockito/mockito-icon.svg" alt="mockito" width="50" height="50"/>
 </p>
 
 ---
 
 <h2 align="center">📌 Specializations</h2>
 <p align="center">
-  <b>Core Java | J2EE | Hibernate | Spring Boot | Spring Security | Spring MVC | Microservices | REST APIs | WebSocket | Kafka | AWS | Docker | Jenkins | MySQL | PostgreSQL | JUnit | Mockito</b>
+  <b>Core Java | J2EE | Hibernate | Spring Boot | Spring Security | Spring MVC | Microservices | REST APIs | WebSocket | Kafka | AWS | Docker | Jenkins | MySQL | PostgreSQL | Next.js | Angular | Python | Go | JUnit | Mockito</b>
 </p>
 
 ---
