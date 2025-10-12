@@ -101,7 +101,7 @@
 
 ---
 
-<h2 align="center">⚡ Fun Facts</h2>
+<h2 align="center">⚡ Fun Fact</h2>
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
 </div>
