@@ -41,8 +41,19 @@
 </p>
 
 ## 🧑‍💻 Coding Stats
-| [![LeetCode Stats](https://leetcard.jacoblin.cool/Sukalyan_5?theme=dark&font=Nunito&ext=heatmap)](https://leetcode.com/Sukalyan_5/) | [![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sukalyan_5&layout=compact)](https://wakatime.com/@Sukalyan_5) |
-|---|---|
+
+<p align="center">
+  <a href="https://leetcode.com/Sukalyan_5/">
+    <img src="https://leetcard.jacoblin.cool/Sukalyan_5?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="420"/>
+  </a>
+  &nbsp;&nbsp;&nbsp;
+</p>
+
+
+
+
+  
+  ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
