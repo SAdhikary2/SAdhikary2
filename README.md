@@ -40,20 +40,9 @@
   </a>
 </p>
 
-## 🧑‍💻 Coding Stats
-
-<p align="center">
-  <a href="https://leetcode.com/Sukalyan_5/">
-    <img src="https://leetcard.jacoblin.cool/Sukalyan_5?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="420"/>
-  </a>
-  &nbsp;&nbsp;&nbsp;
-</p>
 
 
 
-
-  
-  ---
 
 <h2 align="center">🛠️ Tech Stack</h2>
 
